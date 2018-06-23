@@ -1,8 +1,5 @@
 # Clima
 
-
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
 Pro: Git clone to your Xcode projects folder.
 
 ## Finished App
@@ -39,6 +36,6 @@ end
 	</dict>
 ```
 
-
-Copyright © The App Brewery
+//  Created by Piyush Kachariya on 6/22/18.
+//  Copyright © 2018 kachariyainfotech. All rights reserved.
 
